@@ -1,3 +1,5 @@
+"use client"
+
 import React, { useEffect } from "react";
 import { Box, Grid2, Typography } from "@mui/material";
 import { useTheme } from "../../context/themeContext";

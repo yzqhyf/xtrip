@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState } from "react";
 import Link from "next/link";
 // import Button from "../Button";
@@ -15,7 +17,7 @@ import {
 } from "@mui/material";
 import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
-import KeyboardArrowDownIcon from '@mui/icons-material/KeyboardArrowDown';
+import KeyboardArrowDownIcon from "@mui/icons-material/KeyboardArrowDown";
 
 const menuItems = [
 	{
@@ -153,7 +155,6 @@ export const Header = () => {
 
 						<Button
 							className="text-gray-300 hover:bg-gray-700 hover:text-white hover:no-underline rounded-md px-8 py-2 text-sm font-medium"
-							href=""
 							onClick={handleMenuClick}
 							endIcon={<KeyboardArrowDownIcon />}
 						>
