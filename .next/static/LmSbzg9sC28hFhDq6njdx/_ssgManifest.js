@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fpost\u002F[id]\u002Fabc"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
