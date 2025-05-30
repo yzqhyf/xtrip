@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[886],{4542:(l,_,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/[blog]/hello-world",function(){return e(818)}])},818:(l,_,e)=>{"use strict";e.r(_),e.d(_,{default:()=>r});var o=e(5893);let r=()=>(0,o.jsx)("p",{children:"Post: HelloWorld"})}},l=>{var _=_=>l(l.s=_);l.O(0,[888,774,179],()=>_(4542)),_N_E=l.O()}]);
