@@ -1,12 +1,12 @@
 "use client"
 
-// components/AuthForm.tsx
+// components/Login.tsx
 import { useState } from "react";
 import SignUpForm from "./signupForm";
 import LoginForm from "./loginForm";
 import '../../styles/globals.css';
 
-export default function AuthForm() {
+export default function Login() {
 	const [isRegistered, setIsRegistered] = useState(true); // Track whether the user is logging in or signing up
 
 	const handleSignUpSubmit = (data: any) => {
