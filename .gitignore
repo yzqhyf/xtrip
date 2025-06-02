@@ -1,3 +1,8 @@
 node_modules
 node_modules
 .next
+/src/generated/prisma
+
+.vercel
+.env
+.env.development.local
